@@ -15,7 +15,7 @@ Filters:
     *   Gabor
     *   Quadrature Pairs (edge energy)
 
-    using the scipy.signal function convolve
+using the scipy.signal function convolve
 
 Theory:
 ---------------
@@ -28,5 +28,4 @@ Complex cells react equally well to step edges and lines.
 Reference:
 ----------------
 
-Introduction to Computational Neuroscience, Hanspeter Mallot, [tueb][]
-[tueb]: http://www.uni-tuebingen.de/cog
+Introduction to Computational Neuroscience, Hanspeter Mallot, [University of Tübingen](http://www.uni-tuebingen.de/cog)
