@@ -2,7 +2,7 @@ ReceptiveFields
 ===============
 
 Receptive Fields in the primary visual pathway applied to images. 
-Uses <a href="https://github.com/ipython/ipython">IPython Notebook</a>.
+Use <a href="https://github.com/ipython/ipython">IPython Notebook</a> to open the .ipynb file or use receptiveFields.py.
 
 Filters:
 ---------------
