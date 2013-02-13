@@ -17,7 +17,7 @@ Filters
 
 using the scipy.signal function convolve
 
-Theory
+Relation to Neuroscience
 ---------------
 
 Mexican hat (Difference of Gaussians) receptive fields are found in retinal ganglion cells and the LGN. 
